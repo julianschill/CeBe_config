@@ -5,7 +5,7 @@ port="7125"
 # Your telegram bot tocken
 token=""
 # Your chat ID
-chatid="705715833"
+chatid=""
 #
 # messages for the states
 ### Variables for messeges
