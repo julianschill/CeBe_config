@@ -3,7 +3,7 @@
 # Port from moonraker
 port="7125"
 # Your telegram bot tocken
-token="1180315351:AAEH5jFJyHL7fYpNldw2Um6X_GmuQmV40yc"
+token=""
 # Your chat ID
 chatid="705715833"
 #
