@@ -2,10 +2,12 @@
 # Edit only the variables between the ""
 # Port from moonraker
 port="7125"
+
+. /home/pi/klipper_config/telegram_token.sh
 # Your telegram bot tocken
-token=""
+#token=""
 # Your chat ID
-chatid=""
+#chatid=""
 #
 # messages for the states
 ### Variables for messeges
