@@ -34,7 +34,7 @@ picture="1"
 # your webcam snapshot link
 webcam="http://127.0.0.1:8080/?action=snapshot"
 #rotate the pic bevor sending, use degrease 0-360
-rotate="0"
+rotate="180"
 #flip the pic horizontally bevor sending, 1 = yes, 0 = No
 horizontally="0"
 #flip the pic vertically bevor sending, 1 = yes, 0 = No
